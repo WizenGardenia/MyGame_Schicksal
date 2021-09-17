@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: aee8afb6d7aad334ebe9a9411109c6fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8982949311497417534
+    second: TX Props Forest-2_0
+  - first:
+      213: 5854336077340642478
+    second: TX Props Forest Sticks_Down_3
+  - first:
+      213: -6758432444111111694
+    second: TX Props Forest-2_2
+  - first:
+      213: 1888189604906373315
+    second: TX Props Forest-2_3
+  - first:
+      213: -3788259301794670728
+    second: TX Props Forest Sticks_Down_2
+  - first:
+      213: 4631421924722001113
+    second: TX Props Forest-2_5
+  - first:
+      213: 7409719633462246041
+    second: TX Props Forest Sticks_Down_1
+  - first:
+      213: -532456674126467129
+    second: TX Props Forest-2_7
+  - first:
+      213: -5507108724118890805
+    second: TX Props Forest-2_8
+  - first:
+      213: 8872277863708541146
+    second: TX Props Forest-2_9
+  - first:
+      213: 4580599579502984270
+    second: TX Props Forest Sticks_Right_2
+  - first:
+      213: 3622807743097130945
+    second: TX Props Forest Sticks_Left_2
+  - first:
+      213: -3283131783904869744
+    second: TX Props Forest-2_12
+  - first:
+      213: 2586344088303677740
+    second: TX Props Forest-2_13
+  - first:
+      213: -2707402137516675050
+    second: TX Props Forest Sticks_Right_1
+  - first:
+      213: -2285892782179508401
+    second: TX Props Forest Sticks_Left_1
+  - first:
+      213: 573029650465202664
+    second: TX Props Forest-2_16
+  - first:
+      213: 7526806838355940034
+    second: TX Props Forest Sticks_Up_1
+  - first:
+      213: -1403768102892775307
+    second: TX Props Forest-2_18
+  - first:
+      213: 7321993086449043265
+    second: TX Props Forest Sticks_Up_2
+  - first:
+      213: 5917397285327396990
+    second: TX Props Forest-2_20
+  - first:
+      213: 1666513154966738831
+    second: TX Props Forest-2_21
+  - first:
+      213: 271781495906101097
+    second: TX Props Forest Sticks_Up_3
+  - first:
+      213: -1329985443457509500
+    second: TX Props Forest-2_23
+  - first:
+      213: -403892403122020230
+    second: TX Props Forest Board_Brick
+  - first:
+      213: 1185865558834268147
+    second: TX Props Forest Briges
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Down_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac84ad05a7ce3150800000000000000
+      internalID: 5854336077340642478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Down_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 129
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877957f6c366d6bc0800000000000000
+      internalID: -3788259301794670728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Down_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a31cd8fbc94d660800000000000000
+      internalID: 7409719633462246041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Right_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c349a6c0f819f30800000000000000
+      internalID: 4580599579502984270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Left_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc6d8a27cc64230800000000000000
+      internalID: 3622807743097130945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Right_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107f21b9106d6ad0800000000000000
+      internalID: -2707402137516675050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Left_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f9f8330a0e640e0800000000000000
+      internalID: -2285892782179508401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2df25d0f6947860800000000000000
+      internalID: 7526806838355940034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Up_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14749a52be1fc9560800000000000000
+      internalID: 7321993086449043265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Sticks_Up_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967e100a4df85c300800000000000000
+      internalID: 271781495906101097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Board_Brick
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 42
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ee60dff5156af0800000000000000
+      internalID: -403892403122020230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Props Forest Briges
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7cfa9517a057010800000000000000
+      internalID: 1185865558834268147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4320 @@
+fileFormatVersion: 2
+guid: 80916ac290747ed4a943902f180f3592
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3498336094683241577
+    second: BackGround_1_0
+  - first:
+      213: -1291173263209974690
+    second: BackGround_1_1
+  - first:
+      213: 412479330142336338
+    second: BackGround_1_2
+  - first:
+      213: 3497258782281331251
+    second: BackGround_1_3
+  - first:
+      213: 1427381845835798355
+    second: BackGround_1_4
+  - first:
+      213: 7386837946004919183
+    second: BackGround_1_5
+  - first:
+      213: -7148382802288537080
+    second: BackGround_1_6
+  - first:
+      213: 5401174682878066102
+    second: BackGround_1_7
+  - first:
+      213: 8600371202831600118
+    second: BackGround_1_8
+  - first:
+      213: -5154660223028444000
+    second: BackGround_1_9
+  - first:
+      213: 5768107081499959371
+    second: BackGround_1_10
+  - first:
+      213: -1296703690079246562
+    second: BackGround_1_11
+  - first:
+      213: -274009291009034969
+    second: BackGround_1_12
+  - first:
+      213: -117071815530670363
+    second: BackGround_1_13
+  - first:
+      213: 2989326623798458840
+    second: BackGround_1_14
+  - first:
+      213: 1426689096173501243
+    second: BackGround_1_15
+  - first:
+      213: -578987635681141021
+    second: BackGround_1_16
+  - first:
+      213: 9197569245202637895
+    second: BackGround_1_17
+  - first:
+      213: -7170222606446426167
+    second: BackGround_1_18
+  - first:
+      213: -5254925596112007055
+    second: BackGround_1_19
+  - first:
+      213: 2916427795801294353
+    second: BackGround_1_20
+  - first:
+      213: -8767521954127292302
+    second: BackGround_1_21
+  - first:
+      213: -8465908322696494100
+    second: BackGround_1_22
+  - first:
+      213: -5079097864956437093
+    second: BackGround_1_23
+  - first:
+      213: 3929808840234862898
+    second: BackGround_1_24
+  - first:
+      213: -8481427448826469695
+    second: BackGround_1_25
+  - first:
+      213: -5856238318081397513
+    second: BackGround_1_26
+  - first:
+      213: -4689850945424455894
+    second: BackGround_1_27
+  - first:
+      213: 2128144297719547150
+    second: BackGround_1_28
+  - first:
+      213: -9099165014010390977
+    second: BackGround_1_29
+  - first:
+      213: 818998686580345732
+    second: BackGround_1_30
+  - first:
+      213: -1221600178805992485
+    second: BackGround_1_31
+  - first:
+      213: 3974788169210818889
+    second: BackGround_1_32
+  - first:
+      213: 8273255504615506845
+    second: BackGround_1_33
+  - first:
+      213: 584854951009531711
+    second: BackGround_1_34
+  - first:
+      213: -187581795231148479
+    second: BackGround_1_35
+  - first:
+      213: 7844962173508257454
+    second: BackGround_1_36
+  - first:
+      213: -954440663691243029
+    second: BackGround_1_37
+  - first:
+      213: 5275408939326181498
+    second: BackGround_1_38
+  - first:
+      213: -6999404599108735989
+    second: BackGround_1_39
+  - first:
+      213: 1336284454631879779
+    second: BackGround_1_40
+  - first:
+      213: -2151124485728054467
+    second: BackGround_1_41
+  - first:
+      213: 4847142155408242395
+    second: BackGround_1_42
+  - first:
+      213: 7086824401666691782
+    second: BackGround_1_43
+  - first:
+      213: 7673494320734567220
+    second: BackGround_1_44
+  - first:
+      213: -6413497016693154473
+    second: BackGround_1_45
+  - first:
+      213: 1638476011732961912
+    second: BackGround_1_46
+  - first:
+      213: -4412375398336403553
+    second: BackGround_1_47
+  - first:
+      213: 286109288910098208
+    second: BackGround_1_48
+  - first:
+      213: -1660649250370703229
+    second: BackGround_1_49
+  - first:
+      213: 7189049809025862906
+    second: BackGround_1_50
+  - first:
+      213: 3031276601826578311
+    second: BackGround_1_51
+  - first:
+      213: 3914823372451205125
+    second: BackGround_1_52
+  - first:
+      213: -1716660942441223005
+    second: BackGround_1_53
+  - first:
+      213: 3847784897509930831
+    second: BackGround_1_54
+  - first:
+      213: -5260025204068471307
+    second: BackGround_1_55
+  - first:
+      213: 3004176418040718675
+    second: BackGround_1_56
+  - first:
+      213: 4944710735967426934
+    second: BackGround_1_57
+  - first:
+      213: 8932562448822925533
+    second: BackGround_1_58
+  - first:
+      213: 4528671152102692718
+    second: BackGround_1_59
+  - first:
+      213: 1715277715846632011
+    second: BackGround_1_60
+  - first:
+      213: 4272284008899290043
+    second: BackGround_1_61
+  - first:
+      213: -5578524396073752963
+    second: BackGround_1_62
+  - first:
+      213: 6339391878321226294
+    second: BackGround_1_63
+  - first:
+      213: 1769884894125342571
+    second: BackGround_1_64
+  - first:
+      213: 2172351559820159941
+    second: BackGround_1_65
+  - first:
+      213: 3872881866401804009
+    second: BackGround_1_66
+  - first:
+      213: -5188594694331359127
+    second: BackGround_1_67
+  - first:
+      213: -491977257338912166
+    second: BackGround_1_68
+  - first:
+      213: 5426804800783352755
+    second: BackGround_1_69
+  - first:
+      213: -1040996772249783249
+    second: BackGround_1_70
+  - first:
+      213: 5371504677350265232
+    second: BackGround_1_71
+  - first:
+      213: -6710611211266494092
+    second: BackGround_1_72
+  - first:
+      213: 4477175882556093902
+    second: BackGround_1_73
+  - first:
+      213: 3938124216316047641
+    second: BackGround_1_74
+  - first:
+      213: -2717177440443223288
+    second: BackGround_1_75
+  - first:
+      213: 8930981501078497610
+    second: BackGround_1_76
+  - first:
+      213: 4885610365111870948
+    second: BackGround_1_77
+  - first:
+      213: -8262670796122271802
+    second: BackGround_1_78
+  - first:
+      213: -2789624271792644986
+    second: BackGround_1_79
+  - first:
+      213: 142660360126209721
+    second: BackGround_1_80
+  - first:
+      213: 6570455874379837445
+    second: BackGround_1_81
+  - first:
+      213: -8938887386685170261
+    second: BackGround_1_82
+  - first:
+      213: 1622901960943747907
+    second: BackGround_1_83
+  - first:
+      213: -7023859896943317684
+    second: BackGround_1_84
+  - first:
+      213: 7200618876016938742
+    second: BackGround_1_85
+  - first:
+      213: 2371691437446486166
+    second: BackGround_1_86
+  - first:
+      213: -2848545896771711403
+    second: BackGround_1_87
+  - first:
+      213: 4408069359932954115
+    second: BackGround_1_88
+  - first:
+      213: -3956889423233056705
+    second: BackGround_1_89
+  - first:
+      213: 4594508120916141196
+    second: BackGround_1_90
+  - first:
+      213: -6411772990378163870
+    second: BackGround_1_91
+  - first:
+      213: -7090529350287218443
+    second: BackGround_1_92
+  - first:
+      213: -6868380892521970844
+    second: BackGround_1_93
+  - first:
+      213: -6698000021845008071
+    second: BackGround_1_94
+  - first:
+      213: 4285149343849332053
+    second: BackGround_1_95
+  - first:
+      213: 7723046214254914257
+    second: BackGround_1_96
+  - first:
+      213: -5577862125735961167
+    second: BackGround_1_97
+  - first:
+      213: -9073564354127059032
+    second: BackGround_1_98
+  - first:
+      213: -3280124500696890027
+    second: BackGround_1_99
+  - first:
+      213: -8493672123461772163
+    second: BackGround_1_100
+  - first:
+      213: -7264973060490860032
+    second: BackGround_1_101
+  - first:
+      213: 6555410306286572489
+    second: BackGround_1_102
+  - first:
+      213: -7594132093040932162
+    second: BackGround_1_103
+  - first:
+      213: -1288069908942713479
+    second: BackGround_1_104
+  - first:
+      213: 8039211320333362991
+    second: BackGround_1_105
+  - first:
+      213: -8054253582461977052
+    second: BackGround_1_106
+  - first:
+      213: -3514415464797745367
+    second: BackGround_1_107
+  - first:
+      213: 3399629908441160192
+    second: BackGround_1_108
+  - first:
+      213: 3350996250266235706
+    second: BackGround_1_109
+  - first:
+      213: 1802924433524636192
+    second: BackGround_1_110
+  - first:
+      213: 5209159207317743618
+    second: BackGround_1_111
+  - first:
+      213: 4538105285965573289
+    second: BackGround_1_112
+  - first:
+      213: 15732693969568403
+    second: BackGround_1_113
+  - first:
+      213: -1368497217204372391
+    second: BackGround_1_114
+  - first:
+      213: 3390413721318216262
+    second: BackGround_1_115
+  - first:
+      213: -2616945637665336017
+    second: BackGround_1_116
+  - first:
+      213: 4989153114834739163
+    second: BackGround_1_117
+  - first:
+      213: 7951200752144442351
+    second: BackGround_1_118
+  - first:
+      213: -3924864124976364932
+    second: BackGround_1_119
+  - first:
+      213: -8085026696367147097
+    second: BackGround_1_120
+  - first:
+      213: -3783089694069211555
+    second: BackGround_1_121
+  - first:
+      213: -1572478999289051262
+    second: BackGround_1_122
+  - first:
+      213: -2953177076453709626
+    second: BackGround_1_123
+  - first:
+      213: -696138190388665814
+    second: BackGround_1_124
+  - first:
+      213: -944723769019193012
+    second: BackGround_1_125
+  - first:
+      213: 5814959835337136365
+    second: BackGround_1_126
+  - first:
+      213: 8656635639118599063
+    second: BackGround_1_127
+  - first:
+      213: -5063376911455593053
+    second: BackGround_1_128
+  - first:
+      213: 6494811619479605310
+    second: BackGround_1_129
+  - first:
+      213: -2570902501861224956
+    second: BackGround_1_130
+  - first:
+      213: 8243853563579129855
+    second: BackGround_1_131
+  - first:
+      213: 2247824352136115326
+    second: BackGround_1_132
+  - first:
+      213: 3248726492050195752
+    second: BackGround_1_133
+  - first:
+      213: -5021330522338843339
+    second: BackGround_1_134
+  - first:
+      213: 1107392353080312674
+    second: BackGround_1_135
+  - first:
+      213: -3738008590390228769
+    second: BackGround_1_136
+  - first:
+      213: -8887336294482144157
+    second: BackGround_1_137
+  - first:
+      213: 7260245465315878304
+    second: BackGround_1_138
+  - first:
+      213: -5098729060051684971
+    second: BackGround_1_139
+  - first:
+      213: -2073512929714417938
+    second: BackGround_1_140
+  - first:
+      213: 8908890192828180221
+    second: BackGround_1_141
+  - first:
+      213: -6270902343199174719
+    second: BackGround_1_142
+  - first:
+      213: 778014602811531106
+    second: BackGround_1_143
+  - first:
+      213: -7798566252987550365
+    second: BackGround_1_144
+  - first:
+      213: 6727937047801803716
+    second: BackGround_1_145
+  - first:
+      213: 8548615955144212343
+    second: BackGround_1_146
+  - first:
+      213: 6109348963591506315
+    second: BackGround_1_147
+  - first:
+      213: -4879435109453827189
+    second: BackGround_1_148
+  - first:
+      213: -4184126161546985877
+    second: BackGround_1_149
+  - first:
+      213: 1458733984591880899
+    second: BackGround_1_150
+  - first:
+      213: -9058398708308888476
+    second: BackGround_1_151
+  - first:
+      213: -114897295010880343
+    second: BackGround_1_152
+  - first:
+      213: 6644140061909325811
+    second: BackGround_1_153
+  - first:
+      213: 1719192203238451912
+    second: BackGround_1_154
+  - first:
+      213: 3786818065350618564
+    second: BackGround_1_155
+  - first:
+      213: 752479376516964810
+    second: BackGround_Mountain_0
+  - first:
+      213: 1008051732044276316
+    second: BackGround_Mountain_1
+  - first:
+      213: 2164181563883900229
+    second: BackGround_Mountain_2
+  - first:
+      213: -2362697515990864480
+    second: BackGround_Mountain_3
+  - first:
+      213: 7344731345047077443
+    second: BackGround_Mountain_4
+  - first:
+      213: -6240271105013052827
+    second: BackGround_Mountain_5
+  - first:
+      213: -2967393037152083167
+    second: BackGround_Mountain_6
+  - first:
+      213: -6313558658779563045
+    second: BackGround_Mountain_7
+  - first:
+      213: 8577479668902999062
+    second: BackGround_Mountain_8
+  - first:
+      213: -7495955823283446987
+    second: BackGround_Mountain_9
+  - first:
+      213: 6427949402290304612
+    second: BackGround_Mountain_10
+  - first:
+      213: 3361438922028065434
+    second: BackGround_Mountain_11
+  - first:
+      213: 8467398600975921526
+    second: BackGround_Mountain_12
+  - first:
+      213: -4061388185661997681
+    second: BackGround_Mountain_13
+  - first:
+      213: -4627501354434063058
+    second: BackGround_Mountain_14
+  - first:
+      213: -5106694264327640602
+    second: BackGround_Mountain_15
+  - first:
+      213: 5448620074854906885
+    second: BackGround_Mountain_16
+  - first:
+      213: -7718373993339920268
+    second: BackGround_Mountain_17
+  - first:
+      213: 5483747734539491996
+    second: BackGround_Mountain_18
+  - first:
+      213: -4093907261265179283
+    second: BackGround_Mountain_19
+  - first:
+      213: -2495791639707812063
+    second: BackGround_Mountain_20
+  - first:
+      213: 5294682764136827087
+    second: BackGround_Mountain_21
+  - first:
+      213: 1894190804501513065
+    second: BackGround_Mountain_22
+  - first:
+      213: 8643279290831450873
+    second: BackGround_Mountain_23
+  - first:
+      213: -815581841600398441
+    second: BackGround_Mountain_24
+  - first:
+      213: -2417878697567101572
+    second: BackGround_Mountain_25
+  - first:
+      213: -4405838798668522681
+    second: BackGround_Mountain_26
+  - first:
+      213: 3740066696918541292
+    second: BackGround_Mountain_27
+  - first:
+      213: 5527666969344806648
+    second: BackGround_Mountain_28
+  - first:
+      213: 6532017569707332431
+    second: BackGround_Mountain_29
+  - first:
+      213: -1618918199199084107
+    second: BackGround_Mountain_30
+  - first:
+      213: -8810076055175557799
+    second: BackGround_Mountain_31
+  - first:
+      213: -7342520956619529202
+    second: BackGround_Mountain_32
+  - first:
+      213: 4998901557602664798
+    second: BackGround_Mountain_33
+  - first:
+      213: 1947227368036435680
+    second: BackGround_Mountain_34
+  - first:
+      213: -3017071805497470058
+    second: BackGround_Mountain_35
+  - first:
+      213: -1673455034011101522
+    second: BackGround_Mountain_36
+  - first:
+      213: -178355319367176183
+    second: BackGround_Mountain_37
+  - first:
+      213: 2247614135606637273
+    second: BackGround_Mountain_38
+  - first:
+      213: -1877377813978126957
+    second: BackGround_Mountain_39
+  - first:
+      213: -2610836784196595937
+    second: BackGround_Mountain_40
+  - first:
+      213: -3189483447453423542
+    second: BackGround_Mountain_41
+  - first:
+      213: 892140304369772612
+    second: BackGround_Mountain_42
+  - first:
+      213: -3385795150036599381
+    second: BackGround_Mountain_43
+  - first:
+      213: 8783596510904169453
+    second: BackGround_Mountain_44
+  - first:
+      213: 5210839917689712955
+    second: BackGround_Mountain_45
+  - first:
+      213: -4429751183225543963
+    second: BackGround_Mountain_46
+  - first:
+      213: 7085342315034066823
+    second: BackGround_Mountain_47
+  - first:
+      213: 1471534754233025379
+    second: BackGround_Mountain_48
+  - first:
+      213: -2882123337847340620
+    second: BackGround_Mountain_49
+  - first:
+      213: 7647544025950430886
+    second: BackGround_Mountain_50
+  - first:
+      213: -3744745833942620476
+    second: BackGround_Mountain_51
+  - first:
+      213: -5930141068430282626
+    second: BackGround_Mountain_52
+  - first:
+      213: 6463144657054647391
+    second: BackGround_Mountain_53
+  - first:
+      213: -3616079149027277793
+    second: BackGround_Mountain_54
+  - first:
+      213: -7165237417619170408
+    second: BackGround_Mountain_55
+  - first:
+      213: -2834580220613213433
+    second: BackGround_Mountain_56
+  - first:
+      213: 4948829174171433777
+    second: BackGround_Mountain_57
+  - first:
+      213: -7456467040126657775
+    second: BackGround_Mountain_58
+  - first:
+      213: -6205075462346062475
+    second: BackGround_Mountain_59
+  - first:
+      213: 3657681650958234592
+    second: BackGround_Mountain_60
+  - first:
+      213: 2487158252720462547
+    second: BackGround_Mountain_61
+  - first:
+      213: -1618190284273409545
+    second: BackGround_Mountain_62
+  - first:
+      213: 3762713240894537615
+    second: BackGround_Mountain_63
+  - first:
+      213: -1493844760491420775
+    second: BackGround_Mountain_64
+  - first:
+      213: 7281658486192741111
+    second: BackGround_Mountain_65
+  - first:
+      213: -2012059426594328866
+    second: BackGround_Mountain_66
+  - first:
+      213: 5930875449865037224
+    second: BackGround_Mountain_67
+  - first:
+      213: -6947154530395499593
+    second: BackGround_Mountain_68
+  - first:
+      213: -4239286246918952961
+    second: BackGround_Mountain_69
+  - first:
+      213: -1461790673636077223
+    second: BackGround_Mountain_70
+  - first:
+      213: 3464727937782022966
+    second: BackGround_Mountain_71
+  - first:
+      213: -760425491923934578
+    second: BackGround_Mountain_72
+  - first:
+      213: 1507056077810654424
+    second: BackGround_Mountain_73
+  - first:
+      213: -621276717574574698
+    second: BackGround_Mountain_74
+  - first:
+      213: 7244058745216766658
+    second: BackGround_Mountain_75
+  - first:
+      213: -5782503724794525027
+    second: BackGround_Mountain_76
+  - first:
+      213: -6978732111586995312
+    second: BackGround_Mountain_77
+  - first:
+      213: -5611217411640613205
+    second: BackGround_Mountain_78
+  - first:
+      213: -1761330097782036333
+    second: BackGround_Mountain_79
+  - first:
+      213: 241179395920316193
+    second: BackGround_Mountain_80
+  - first:
+      213: 3766486023768805278
+    second: BackGround_Mountain_81
+  - first:
+      213: -1988877091071136052
+    second: BackGround_Mountain_82
+  - first:
+      213: 1121814850531830373
+    second: BackGround_Mountain_83
+  - first:
+      213: -8208535784646830116
+    second: BackGround_Mountain_84
+  - first:
+      213: 5868761220438428369
+    second: BackGround_Mountain_85
+  - first:
+      213: -8869153641836208361
+    second: BackGround_Mountain_86
+  - first:
+      213: 8673614323478851435
+    second: BackGround_Mountain_87
+  - first:
+      213: 1782971812946695650
+    second: BackGround_Mountain_88
+  - first:
+      213: 5400769913655565899
+    second: BackGround_Mountain_89
+  - first:
+      213: 885524035853804890
+    second: BackGround_Mountain_90
+  - first:
+      213: 8382943347755828860
+    second: BackGround_Mountain_91
+  - first:
+      213: 548415416192580394
+    second: BackGround_Mountain_92
+  - first:
+      213: -5031784249544371379
+    second: BackGround_Mountain_93
+  - first:
+      213: 2463563272337972334
+    second: BackGround_Mountain_94
+  - first:
+      213: -8736015622421127819
+    second: BackGround_Mountain_95
+  - first:
+      213: 7720748630518206430
+    second: BackGround_Mountain_96
+  - first:
+      213: 806070075649401224
+    second: BackGround_Mountain_97
+  - first:
+      213: 935878310734623176
+    second: BackGround_Mountain_98
+  - first:
+      213: 2370763322930857745
+    second: BackGround_Mountain_99
+  - first:
+      213: -3434376498243973095
+    second: BackGround_Mountain_100
+  - first:
+      213: -2430408889955613909
+    second: BackGround_Mountain_101
+  - first:
+      213: 2118363771362735103
+    second: BackGround_Mountain_102
+  - first:
+      213: 2033334564346959988
+    second: BackGround_Mountain_103
+  - first:
+      213: 6964377996243958353
+    second: BackGround_Mountain_104
+  - first:
+      213: 7890017404936939815
+    second: BackGround_Mountain_105
+  - first:
+      213: -4938454704273947146
+    second: BackGround_Mountain_106
+  - first:
+      213: -3362649877595286663
+    second: BackGround_Mountain_107
+  - first:
+      213: 6985710657838045604
+    second: BackGround_Mountain_108
+  - first:
+      213: -8523181673465191250
+    second: BackGround_Mountain_109
+  - first:
+      213: -5869038752983235721
+    second: BackGround_Mountain_110
+  - first:
+      213: 1435825096726116502
+    second: BackGround_Mountain_111
+  - first:
+      213: -4537073431979327756
+    second: BackGround_Mountain_112
+  - first:
+      213: -8672217887207189514
+    second: BackGround_Mountain_113
+  - first:
+      213: 7748737624116893660
+    second: BackGround_Mountain_114
+  - first:
+      213: -475626053154015025
+    second: BackGround_Mountain_115
+  - first:
+      213: -5657264168685886836
+    second: BackGround_Mountain_116
+  - first:
+      213: 1728555675021557175
+    second: BackGround_Mountain_117
+  - first:
+      213: 4710567374624083764
+    second: BackGround_Mountain_118
+  - first:
+      213: -7126414462096562833
+    second: BackGround_Mountain_119
+  - first:
+      213: 1594545062094231457
+    second: BackGround_Mountain_120
+  - first:
+      213: -5144909688634667933
+    second: BackGround_Mountain_121
+  - first:
+      213: 306372803305821091
+    second: BackGround_Mountain_122
+  - first:
+      213: -7973624006109376780
+    second: BackGround_Mountain_123
+  - first:
+      213: -8770206891492869762
+    second: BackGround_Mountain_124
+  - first:
+      213: -4586387511547522630
+    second: BackGround_Mountain_125
+  - first:
+      213: 5684173234656557676
+    second: BackGround_Mountain_126
+  - first:
+      213: -5679981312969784542
+    second: BackGround_Mountain_127
+  - first:
+      213: 6761828821323788138
+    second: BackGround_Mountain_128
+  - first:
+      213: -488341675193754794
+    second: BackGround_Mountain_129
+  - first:
+      213: 3356150166406253914
+    second: BackGround_Mountain_130
+  - first:
+      213: -8062095555825591014
+    second: BackGround_Mountain_131
+  - first:
+      213: -3042292877271427300
+    second: BackGround_Mountain_132
+  - first:
+      213: 6331527254036413901
+    second: BackGround_Mountain_133
+  - first:
+      213: -6408590888285686110
+    second: BackGround_Mountain_134
+  - first:
+      213: 8548379300636838543
+    second: BackGround_Mountain_135
+  - first:
+      213: -8069397956130892332
+    second: BackGround_Mountain_136
+  - first:
+      213: 7716335761417876236
+    second: BackGround_Mountain_137
+  - first:
+      213: -4356334594223588927
+    second: BackGround_Mountain_138
+  - first:
+      213: -895678678746972942
+    second: BackGround_Mountain_139
+  - first:
+      213: -4115140191040868267
+    second: BackGround_Mountain_140
+  - first:
+      213: -4033875533086149494
+    second: BackGround_Mountain_141
+  - first:
+      213: -547998671692607021
+    second: BackGround_Mountain_142
+  - first:
+      213: -6572228990921015269
+    second: BackGround_Mountain_143
+  - first:
+      213: 805484638682835152
+    second: BackGround_Mountain_144
+  - first:
+      213: -1567951203682833758
+    second: BackGround_Mountain_145
+  - first:
+      213: 7007313451065480214
+    second: BackGround_Mountain_146
+  - first:
+      213: 6899771375986001703
+    second: BackGround_Mountain_147
+  - first:
+      213: -6937064272970083326
+    second: BackGround_Mountain_148
+  - first:
+      213: -3867183434812588176
+    second: BackGround_Mountain_149
+  - first:
+      213: -3012214142628159269
+    second: BackGround_Mountain_150
+  - first:
+      213: -3533692684182660775
+    second: BackGround_Mountain_151
+  - first:
+      213: -8732590041152709959
+    second: BackGround_Mountain_152
+  - first:
+      213: 3543275904983654670
+    second: BackGround_Mountain_153
+  - first:
+      213: -2184943706255056648
+    second: BackGround_Mountain_154
+  - first:
+      213: 4996795190314334624
+    second: BackGround_Mountain_155
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackGround_Mountain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1e9129108517a00800000000000000
+      internalID: 752479376516964810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5267bb95b15dfd00800000000000000
+      internalID: 1008051732044276316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dcfb08aa7b80e10800000000000000
+      internalID: 2164181563883900229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adaaa79023063fd0800000000000000
+      internalID: -2362697515990864480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34245388e3abde560800000000000000
+      internalID: 7344731345047077443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a009b0e7a1669a0800000000000000
+      internalID: -6240271105013052827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123259f21c3b1d6d0800000000000000
+      internalID: -2967393037152083167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb3adab9dbb168a0800000000000000
+      internalID: -6313558658779563045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614391d3054590770800000000000000
+      internalID: 8577479668902999062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5b2dd4e309f790800000000000000
+      internalID: -7495955823283446987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466b2b5bce9a43950800000000000000
+      internalID: 6427949402290304612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a7a1d3ea36ae20800000000000000
+      internalID: 3361438922028065434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6713fc65a2e328570800000000000000
+      internalID: 8467398600975921526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df5aa96fc03a7c0800000000000000
+      internalID: -4061388185661997681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2591532900d7cfb0800000000000000
+      internalID: -4627501354434063058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e93e7f906129b0800000000000000
+      internalID: -5106694264327640602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf9cd07136d9b40800000000000000
+      internalID: 5448620074854906885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4706c5b2fb3d2e490800000000000000
+      internalID: -7718373993339920268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a541ba28f2a1c40800000000000000
+      internalID: 5483747734539491996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d85ec49058f27c0800000000000000
+      internalID: -4093907261265179283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f73d91aba2d5dd0800000000000000
+      internalID: -2495791639707812063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc842caebed7a7940800000000000000
+      internalID: 5294682764136827087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cf173084894a10800000000000000
+      internalID: 1894190804501513065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bf7098b813f770800000000000000
+      internalID: 8643279290831450873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b362ed2a87ea4f0800000000000000
+      internalID: -815581841600398441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d57819228f17ed0800000000000000
+      internalID: -2417878697567101572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9abba4f05bd2c0800000000000000
+      internalID: -4405838798668522681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3291a58d267e330800000000000000
+      internalID: 3740066696918541292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe057062d736bc40800000000000000
+      internalID: 5527666969344806648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43140d1f5366aa50800000000000000
+      internalID: 6532017569707332431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1d258a9727889e0800000000000000
+      internalID: -1618918199199084107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d061f61825cb580800000000000000
+      internalID: -8810076055175557799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e4d0a7102a1a90800000000000000
+      internalID: -7342520956619529202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51cd083b7aaf5540800000000000000
+      internalID: 4998901557602664798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60bb079f0f50b10800000000000000
+      internalID: 1947227368036435680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6931a739d253126d0800000000000000
+      internalID: -3017071805497470058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6dd2e4381b6c8e0800000000000000
+      internalID: -1673455034011101522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900715138ca568df0800000000000000
+      internalID: -178355319367176183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2faf0e521213f10800000000000000
+      internalID: 2247614135606637273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39562a033d632f5e0800000000000000
+      internalID: -1877377813978126957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f407f07c174cbd0800000000000000
+      internalID: -2610836784196595937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ec8104bdacb3d0800000000000000
+      internalID: -3189483447453423542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e4cb41e4816c00800000000000000
+      internalID: 892140304369772612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf3dfef3d3301d0800000000000000
+      internalID: -3385795150036599381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3bdca3d7a95e970800000000000000
+      internalID: 8783596510904169453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3132530c4f905840800000000000000
+      internalID: 5210839917689712955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2a978c4cc5682c0800000000000000
+      internalID: -4429751183225543963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f36a7bb41345260800000000000000
+      internalID: 7085342315034066823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36383bcff01fb6410800000000000000
+      internalID: 1471534754233025379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10fb82814a008d0800000000000000
+      internalID: -2882123337847340620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6afeee5c8812a60800000000000000
+      internalID: 7647544025950430886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e9b9218df70cc0800000000000000
+      internalID: -3744745833942620476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f1441e18e3bda0800000000000000
+      internalID: -5930141068430282626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c4b782d3b1b950800000000000000
+      internalID: 6463144657054647391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14488a3c2b11ddc0800000000000000
+      internalID: -3616079149027277793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd87f1886ff8c90800000000000000
+      internalID: -7165237417619170408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703400fbe4c89a8d0800000000000000
+      internalID: -2834580220613213433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf394f9e5cda440800000000000000
+      internalID: 4948829174171433777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b97d9abbe458890800000000000000
+      internalID: -7456467040126657775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575ce5e2eb423e9a0800000000000000
+      internalID: -6205075462346062475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e374d21512b2c230800000000000000
+      internalID: 3657681650958234592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da9599d049248220800000000000000
+      internalID: 2487158252720462547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f125ee82880b89e0800000000000000
+      internalID: -1618190284273409545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f7d23c1c7d73430800000000000000
+      internalID: 3762713240894537615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939455ea1cc44be0800000000000000
+      internalID: -1493844760491420775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1a3530d5ad0560800000000000000
+      internalID: 7281658486192741111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6ed2ac9ab314e0800000000000000
+      internalID: -2012059426594328866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56a4c6cc3be4250800000000000000
+      internalID: 5930875449865037224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3d70023cfb69f90800000000000000
+      internalID: -6947154530395499593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7623f7e970b25c0800000000000000
+      internalID: -4239286246918952961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95151f1902da6bbe0800000000000000
+      internalID: -1461790673636077223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338ed6d3bf251030800000000000000
+      internalID: 3464727937782022966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e8b34b0d6275f0800000000000000
+      internalID: -760425491923934578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc5f7e94832ae410800000000000000
+      internalID: 1507056077810654424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2fb5fd18c067f0800000000000000
+      internalID: -621276717574574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c215b05c01188460800000000000000
+      internalID: 7244058745216766658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_76
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9acf33df7b60cfa0800000000000000
+      internalID: -5782503724794525027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093de329e10962f90800000000000000
+      internalID: -6978732111586995312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6acad5e73f022b0800000000000000
+      internalID: -5611217411640613205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986f75ab9f7e87e0800000000000000
+      internalID: -1761330097782036333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12749fcf167d85300800000000000000
+      internalID: 241179395920316193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f863a351f354430800000000000000
+      internalID: 3766486023768805278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceeaccb2d61664e0800000000000000
+      internalID: -1988877091071136052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a25b5b9ac719f00800000000000000
+      internalID: 1121814850531830373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71b0ec13c651e80800000000000000
+      internalID: -8208535784646830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da02d76c37027150800000000000000
+      internalID: 5868761220438428369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f9df7e0cf6ae480800000000000000
+      internalID: -8869153641836208361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f62bdb54ede5870800000000000000
+      internalID: 8673614323478851435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d833da636eb810800000000000000
+      internalID: 1782971812946695650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_89
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9e093f9363fa40800000000000000
+      internalID: 5400769913655565899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55e22d3b630a4c00800000000000000
+      internalID: 885524035853804890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c53f5f82365470800000000000000
+      internalID: 8382943347755828860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb1875aec5c9700800000000000000
+      internalID: 548415416192580394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43908372e28b2ab0800000000000000
+      internalID: -5031784249544371379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c57616eb5503220800000000000000
+      internalID: 2463563272337972334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5359a31073c680800000000000000
+      internalID: -8736015622421127819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf0f1229fb952b60800000000000000
+      internalID: 7720748630518206430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a72b867cbf2b00800000000000000
+      internalID: 806070075649401224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c174587d58ecfc00800000000000000
+      internalID: 935878310734623176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11781dd6ea4a6e020800000000000000
+      internalID: 2370763322930857745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d73d55c4a650d0800000000000000
+      internalID: -3434376498243973095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238e3fcdf3754ed0800000000000000
+      internalID: -2430408889955613909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_102
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f12160a0f56d10800000000000000
+      internalID: 2118363771362735103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789c61630bd73c10800000000000000
+      internalID: 2033334564346959988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15afaa383e076a060800000000000000
+      internalID: 6964377996243958353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296ae4d609fe7d60800000000000000
+      internalID: 7890017404936939815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5056c8c95177bb0800000000000000
+      internalID: -4938454704273947146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9731ced90c77551d0800000000000000
+      internalID: -3362649877595286663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d818d4da32f060800000000000000
+      internalID: 6985710657838045604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ecfcfc6397b980800000000000000
+      internalID: -8523181673465191250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773ce63895cfc8ea0800000000000000
+      internalID: -5869038752983235721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69873f171531de310800000000000000
+      internalID: 1435825096726116502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe720780c31901c0800000000000000
+      internalID: -4537073431979327756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31a3a67c716a780800000000000000
+      internalID: -8672217887207189514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7113780db098b60800000000000000
+      internalID: 7748737624116893660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_115
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc875d7ef9c3669f0800000000000000
+      internalID: -475626053154015025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82aee8463c5d71b0800000000000000
+      internalID: -5657264168685886836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd35286a301df710800000000000000
+      internalID: 1728555675021557175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f430fc11c4f5140800000000000000
+      internalID: 4710567374624083764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f652788ddc3e91d90800000000000000
+      internalID: -7126414462096562833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7da742946f02610800000000000000
+      internalID: 1594545062094231457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c0777a5eb9998b0800000000000000
+      internalID: -5144909688634667933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a352edf074704400800000000000000
+      internalID: 306372803305821091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec257663ff75190800000000000000
+      internalID: -7973624006109376780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7972e97c47f94680800000000000000
+      internalID: -8770206891492869762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab11ce3abd0e950c0800000000000000
+      internalID: -4586387511547522630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6abc7dd07d32ee40800000000000000
+      internalID: 5684173234656557676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2234495f617ac21b0800000000000000
+      internalID: -5679981312969784542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa00fbc77d6dd50800000000000000
+      internalID: 6761828821323788138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9e0175df0939f0800000000000000
+      internalID: -488341675193754794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d43817bc0739e20800000000000000
+      internalID: 3356150166406253914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d92c98ecead1090800000000000000
+      internalID: -8062095555825591014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1719833fba97c5d0800000000000000
+      internalID: -3042292877271427300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7b8edd7a1ed750800000000000000
+      internalID: 6331527254036413901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63de09a8c1017a0800000000000000
+      internalID: -6408590888285686110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac2c3cea1f1a670800000000000000
+      internalID: 8548379300636838543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51e89ff4db30090800000000000000
+      internalID: -8069397956130892332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03b4fafd7ee51b60800000000000000
+      internalID: 7716335761417876236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9be8474c03b83c0800000000000000
+      internalID: -4356334594223588927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc3568bcf8e193f0800000000000000
+      internalID: -895678678746972942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55073189cc514e6c0800000000000000
+      internalID: -4115140191040868267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_141
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b246339bc408c0800000000000000
+      internalID: -4033875533086149494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_142
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1506c8c1e1568f0800000000000000
+      internalID: -547998671692607021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1001adcd80cac4a0800000000000000
+      internalID: -6572228990921015269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d869b0e208ad2b00800000000000000
+      internalID: 805484638682835152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaa65700b48d3ae0800000000000000
+      internalID: -1567951203682833758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6141398157afe3160800000000000000
+      internalID: 7007313451065480214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cd098289e0cf50800000000000000
+      internalID: 6899771375986001703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20490914cc89abf90800000000000000
+      internalID: -6937064272970083326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f78beb721055ac0800000000000000
+      internalID: -3867183434812588176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_150
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ad3952377236d0800000000000000
+      internalID: -3012214142628159269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95955edd93dc5fec0800000000000000
+      internalID: -3533692684182660775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_152
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9af3ff9b9fc680800000000000000
+      internalID: -8732590041152709959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0160c999ae3c2130800000000000000
+      internalID: 3543275904983654670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0217686458da1e0800000000000000
+      internalID: -2184943706255056648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGround_Mountain_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f01e50ce285540800000000000000
+      internalID: 4996795190314334624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

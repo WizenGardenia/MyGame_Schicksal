@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CameraShake
+  - PlayerAttack
+  - InteractObject
+  - VirtualCamera
+  - Manager
+  - Dialogue
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - EnemyAttack
+  - PlayerStay
+  - Dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1379737547
+    locked: 0
+  - name: Ground
+    uniqueID: 1592929579
+    locked: 0
+  - name: Enemy
+    uniqueID: 2237234059
+    locked: 0
+  - name: Player
+    uniqueID: 340965851
+    locked: 0
+  - name: EnemyAttack
+    uniqueID: 2108268949
+    locked: 0

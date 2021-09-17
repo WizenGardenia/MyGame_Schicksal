@@ -1,0 +1,711 @@
+fileFormatVersion: 2
+guid: d23e82e29bfdabf4f9b01dc69e6901b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8742837945808033619
+    second: TX Forest Tree_1
+  - first:
+      213: -7909268418814572443
+    second: TX Forest Tree_2
+  - first:
+      213: 7339208659913371283
+    second: TX Forest Tree_3
+  - first:
+      213: -6647038009944687123
+    second: TX Forest Sapling_1
+  - first:
+      213: -5265895169967980614
+    second: TX Forest Sapling_2
+  - first:
+      213: -6893824865516968400
+    second: TX Forest Sapling_3
+  - first:
+      213: 23097177086592052
+    second: TX Forest Bush_1
+  - first:
+      213: -1940802805205402280
+    second: TX Forest Bush_2
+  - first:
+      213: -372715420942462017
+    second: TX Forest Bush_3
+  - first:
+      213: -1259687382221210136
+    second: TX Forest Bush_4
+  - first:
+      213: -1235023641837070805
+    second: TX Forest Bush_5
+  - first:
+      213: -3948756080236494909
+    second: TX Forest Bough_1
+  - first:
+      213: -4799906308952235761
+    second: TX Forest Bough_2
+  - first:
+      213: -7699880380452615879
+    second: TX Forest Bough_3
+  - first:
+      213: 2667017141961856281
+    second: TX Forest Grass_1
+  - first:
+      213: -5708826667455158709
+    second: TX Forest Grass_2
+  - first:
+      213: -6956675625670865915
+    second: TX Forest Grass_4
+  - first:
+      213: 6660343278497561011
+    second: TX Forest Bush_6
+  - first:
+      213: -3260385393823093009
+    second: TX Forest Grass_3
+  - first:
+      213: 797912930289120737
+    second: TX Forest Grass_5
+  - first:
+      213: 5534384234622963512
+    second: TX Forest Sprig_1
+  - first:
+      213: -1849561527582860196
+    second: TX Forest Sprig_2
+  - first:
+      213: -6064094367436514089
+    second: TX Forest Sprig_3
+  - first:
+      213: 8998146790239293292
+    second: TX Forest Sprig_4
+  - first:
+      213: -7405563323942721316
+    second: TX Forest Sprig_5
+  - first:
+      213: -1594811193033220463
+    second: TX Props Forest_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Forest Tree_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 243
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35791b84accc45970800000000000000
+      internalID: 8742837945808033619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Tree_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 207
+        width: 242
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56887573742ac3290800000000000000
+      internalID: -7909268418814572443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Tree_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 208
+        width: 295
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6b92346b1ad560800000000000000
+      internalID: 7339208659913371283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sapling_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded3ab0c52af0c3a0800000000000000
+      internalID: -6647038009944687123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sapling_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 16
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffc992e38cbe6b0800000000000000
+      internalID: -5265895169967980614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sapling_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0362b135fc63450a0800000000000000
+      internalID: -6893824865516968400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348f8b92ce025000800000000000000
+      internalID: 23097177086592052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d76a8a122e015e0800000000000000
+      internalID: -1940802805205402280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 112
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31a64ac49d3daf0800000000000000
+      internalID: -372715420942462017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edb9aefff0b48ee0800000000000000
+      internalID: -1259687382221210136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26971b8a805cdee0800000000000000
+      internalID: -1235023641837070805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bough_1
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 42
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff6d434433339c0800000000000000
+      internalID: -3948756080236494909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bough_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 32
+        width: 21
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01eebb94ae436db0800000000000000
+      internalID: -4799906308952235761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bough_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 42
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394f16f697842590800000000000000
+      internalID: -7699880380452615879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Grass_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915938cc5f5230520800000000000000
+      internalID: 2667017141961856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Grass_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46ee02846c26c0b0800000000000000
+      internalID: -5708826667455158709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Grass_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0542606ce47f90800000000000000
+      internalID: -6956675625670865915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Bush_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f10d7cea4e6c50800000000000000
+      internalID: 6660343278497561011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Grass_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6d4232c8c0c2d0800000000000000
+      internalID: -3260385393823093009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Grass_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f2932591c21b00800000000000000
+      internalID: 797912930289120737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sprig_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 16
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f493393251ecc40800000000000000
+      internalID: 5534384234622963512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sprig_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd13e07990556e0800000000000000
+      internalID: -1849561527582860196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sprig_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcdf704d4208dba0800000000000000
+      internalID: -6064094367436514089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sprig_4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 16
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc80dd4d6dfdc70800000000000000
+      internalID: 8998146790239293292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Forest Sprig_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 16
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8abbaa4672a3990800000000000000
+      internalID: -7405563323942721316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

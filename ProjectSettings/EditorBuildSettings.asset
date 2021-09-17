@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: deb40bf785a5f014481ebbbbbbcd355b
+  - enabled: 1
+    path: Assets/Scenes/VillageScene.unity
+    guid: ee6d95de17df735458bf4fac48bc0d60
+  - enabled: 1
+    path: Assets/Scenes/ForestScene.unity
+    guid: 7a9055e051b0ee04da6fe5db0798f979
+  - enabled: 1
+    path: Assets/Scenes/CattleScene.unity
+    guid: 86869157665ad35469ee276149de87c5
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
